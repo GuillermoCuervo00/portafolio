@@ -13,16 +13,16 @@ DATA = data.data
 
 def index() -> rx.Component:
     return rx.center(
-        # rx.theme_panel(),
+        #rx.theme_panel(),
         rx.vstack(
             header(DATA),
             about(DATA.about),
             rx.divider(),
             tech_stack(DATA.technologies),
             info("Experiencia", DATA.experience),
-            info("Proyectos", DATA.projects),
+            #info("Proyectos", DATA.projects),
             info("Formación", DATA.training),
-            extra(DATA.extras),
+            #extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),
             spacing=Size.MEDIUM.value,
@@ -39,7 +39,7 @@ app = rx.App(
     style=BASE_STYLE,
     theme=rx.theme(
         appearance="dark",
-        accent_color="grass",
+        accent_color="blue",
         radius="full"
     )
 )

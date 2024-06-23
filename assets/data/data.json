@@ -1,128 +1,112 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Guillermo Cuervo Barcón | Portafolio",
+    "description": "Soy Guillermo, desarrollador backend JAVA",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Guillermo Cuervo Barcón",
+    "skill": "Desarrollador JAVA Backend",
+    "location": "España",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "guillermocuervo00@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/guillermocuervo00",
+        "likedin": "https://www.linkedin.com/in/guillermo-cuervo-barc%C3%B3n-46b9001a0/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un programador Java con varios años de experiencia y inquietud por el mundo tecnológico. Disfruto de los nuevos retos y avances de la programación.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-spring-plain",
+            "name": "SpringBoot"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-git-plain",
+            "name": "Git"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-github-plain",
+            "name": "GitHub"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+                {
+            "icon": "devicon-html5-plain",
+            "name": "HTML5"
+        },
+                {
+            "icon": "devicon-jira-plain",
+            "name": "JIRA"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "icon": "server-cog",
+            "title": "Desarrollador Backend",
+            "subtitle": "Axpe Consulting",
+            "description": "Mantenimiento de aplicaciones SpringBoot. Gestión de incidencias. Base de datos MySQL. Control de versiones GitLab.",
+
+            "date": "09/2023 - 02/2024"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "server-cog",
+            "title": "Desarrollador Backend",
+            "subtitle": "BussinesGo",
+            "description": "Mantenimiento de aplicación SpringBoot. Base de datos MySql y Oracle. Control de versiones con GitLab",
+            "date": "02/2023 - 05/2023"
+        },
+        {
+            "icon": "server-cog",
+            "title": "Desarrollador Backend",
+            "subtitle": "Bosonit",
+            "description": "Desarrollo de funcionalidades Java. Mantenimiento sobre aplicación SpringBoot. Base de datos MySQL. Testing con Swagger. Control de versiones con GitLab",
+            "date": "03/2022 - 10/2022"
+        },
+        {
+            "icon": "panel-top",
+            "title": "Desarrollador FullStack",
+            "subtitle": "Indra",
+            "description": "Mantenimiento de aplicaciones Java. Mantenimiento de aplicación Springboot y Swing. Base de datos MySQL. Control de versiones con GitLab",
+            "date": "06/2021 - 12/2021"
+        },
+        {
+            "icon": "panel-top",
+            "title": "Desarrollador FullStack",
+            "subtitle": "Atos",
+            "description": "Nuevas funcionalidades en SpringBoot y Angular. Base de datos MySQL. Control de versiones en GitLab",
+            "date": "11/2020 - 05/2021"
         }
     ],
     "projects": [
-        {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
-            "technologies": [
-                {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
-        }
+
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "laptop",
+            "title": "Desarrollo de Aplicaciones Multiplataforma",
+            "subtitle": "Afundacion ABANCA",
+            "description": "Aprendí a desarrollar aplicaciones Java.",
+            "date": "2020",
+            "certificate": ""
         },
         {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
+            "icon": "orbit",
+            "title": "Bachillerato Científico-Tecnológico",
+            "subtitle": "IES Eduardo Blanco Amor",
+            "description": "Aprendí lo esencial del mundo científico-tecnológico.",
             "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "certificate": ""
         }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
-        }
+
     ]
 }
